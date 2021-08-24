@@ -1,0 +1,38 @@
+{
+    "name": "Rafi Mohammed",
+    "short_name": "Rafi",
+    "description": "SmartSuite ERP Application",
+    "icons": [{
+            "src": "./images/logo.png",
+            "type": "image/png",
+            "sizes": "58x58",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./images/logo-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./images/logo-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./images/logo-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "dir": "ltr",
+    "lang": "en",
+    "theme_color": "#136eb5",
+    "background_color": "#f7f7f7",
+    "display": "standalone",
+    "orientation": "natural",
+    "start_url": "http://localhost:82/serviceworker/",
+    "categories": ["technology", "web"]
+}
